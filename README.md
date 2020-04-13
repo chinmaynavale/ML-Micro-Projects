@@ -1,4 +1,4 @@
-# ML-Micro-Projects
+# ML-Portfolio
 Portfolio of Machine Learning Projects for academic and self learning purposes.
 
 1. Regression\
